@@ -89,9 +89,9 @@ int main(void)
   MX_GPIO_Init();
   MX_USART1_UART_Init();
   /* USER CODE BEGIN 2 */
-
+usart_init();
   /* USER CODE END 2 */
-  usart_init();
+
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)

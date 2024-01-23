@@ -31,5 +31,5 @@ outside_imu\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash
 outside_imu\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
 outside_imu\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
 outside_imu\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
-outside_imu\bsp_usart.o: ..\application\wt16c.h
-outside_imu\bsp_usart.o: ..\application\struct_typedef.h
+outside_imu\bsp_usart.o: ../application/wt16c.h
+outside_imu\bsp_usart.o: ../application/struct_typedef.h

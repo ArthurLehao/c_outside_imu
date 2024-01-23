@@ -1,0 +1,20 @@
+
+
+GraphedExpression="(wt61c_data).angle[2]", Color=#e56a6f
+OpenDocument="main.c", FilePath="C:/Users/lehao/Desktop/outside_imu/outside_imu/Core/Src/main.c", Line=60
+OpenDocument="wt16c.c", FilePath="C:/Users/lehao/Desktop/outside_imu/outside_imu/application/wt16c.c", Line=0
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=1, w=126, h=136, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=126, h=143, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=RIGHT, x=0, y=1, w=459, h=110, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=RIGHT, x=0, y=0, w=459, h=169, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="1 s", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="211;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="272;0", CodeGraphLegendShown=0, CodeGraphLegendPosition="229;0"
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=731, h=102, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[744;100;100;100;188]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" (wt61c_data).angle[2]"], ColWidths=[100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="DESCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[412;100;100;100;100;100;100;100;100]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[196;129;165;100]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;359]
+WatchedExpression="wt61c_data", RefreshRate=5, Window=Watched Data 1

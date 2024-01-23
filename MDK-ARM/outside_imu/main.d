@@ -31,4 +31,4 @@ outside_imu\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
 outside_imu\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 outside_imu\main.o: ../Core/Inc/usart.h
 outside_imu\main.o: ../Core/Inc/gpio.h
-outside_imu\main.o: ..\bsp\bsp_usart.h
+outside_imu\main.o: ../bsp/bsp_usart.h
